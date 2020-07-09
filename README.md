@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi! I'm a web socket @ [Lemonade](https://www.lemonade.com)
 
 <!--
 **itamark/itamark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
